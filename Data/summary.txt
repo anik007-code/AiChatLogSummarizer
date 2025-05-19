@@ -1,0 +1,8 @@
+Summary for sample_chat.txt:
+- The conversation had 10 exchanges.
+- Total messages: 20 (User: 10, AI: 10).
+- The user asked mainly about general topics.
+- Most common keywords overall: word (18), nltk (10), use (7), text (5), need (5).
+- User frequently mentioned: word (5), nltk (4), text (3).
+- AI frequently mentioned: word (13), nltk (6), need (5).
+- Average message length: User (9.9 words), AI (30.2 words).
